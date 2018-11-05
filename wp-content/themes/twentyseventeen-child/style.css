@@ -25,3 +25,11 @@ h2.widget-title {
 footer{
     background-color: aliceblue;
 }
+
+button.search-submit {
+    background-color: #595630;
+}
+
+input.search-field {
+    background-color: rgb(240, 240, 240);
+}
